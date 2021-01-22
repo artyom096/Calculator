@@ -73,5 +73,3 @@ class Keyboard extends Component {
 }
 
 export default Keyboard
-
-// равно на энтер
