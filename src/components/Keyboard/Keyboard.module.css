@@ -1,0 +1,33 @@
+button {
+    width: 50px;
+    height: 50px;
+    font-size: 26px;
+    border: none;
+    margin: 2px;
+    outline: none;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #ccc;
+}
+
+.back {
+    width: 104px;
+    height: 50px;
+    border: none;
+    color: #f59e11;
+}
+
+.equal {
+    background-color: #29a7d9;
+    border: none;
+}
+
+.equal:hover {
+    background-color: dodgerblue;
+}
+
+.btn {
+    color: #f59e11;
+}
